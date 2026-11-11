@@ -1,0 +1,19 @@
+# Clé de signature de l'appli — NE JAMAIS PUBLIER (reste chez le mainteneur)
+*.keystore
+*.jks
+*.idsig
+
+# Artefacts de build de l'appli
+app/build/
+build/
+
+# Image système GSI (trop volumineuse pour git — voir Releases / README)
+*.img
+!flash/vbmeta_disabled.img
+*.img.xz
+*.zip
+
+# Divers
+*.log
+.DS_Store
+Thumbs.db

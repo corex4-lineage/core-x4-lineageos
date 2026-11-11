@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône : téléphone robuste avec 2 boutons latéraux mis en évidence -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M40,30h24a6,6 0 0 1 6,6v36a6,6 0 0 1 -6,6h-24a6,6 0 0 1 -6,-6v-36a6,6 0 0 1 6,-6z"/>
+    <path android:fillColor="#1B6E5A"
+        android:pathData="M41,37h22v28h-22z"/>
+    <path android:fillColor="#FFC845"
+        android:pathData="M71,40h4a2,2 0 0 1 2,2v6a2,2 0 0 1 -2,2h-4z"/>
+    <path android:fillColor="#FFC845"
+        android:pathData="M71,54h4a2,2 0 0 1 2,2v6a2,2 0 0 1 -2,2h-4z"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M49,70h6a1.5,1.5 0 0 1 0,3h-6a1.5,1.5 0 0 1 0,-3z"/>
+</vector>

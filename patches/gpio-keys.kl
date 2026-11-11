@@ -1,0 +1,10 @@
+# Crosscall Core-X4 (L762) - boutons physiques, adapte pour GSI
+# stock : 530=DEDICATED 531=PTT (codes Crosscall) -> F12 / F11 (geres par l'appli X4 Boutons)
+# WAKE : un appui rallume l'ecran quand il est eteint
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+key 102   HOME
+key 528   FOCUS
+key 766   CAMERA
+key 531   F11   WAKE
+key 530   F12   WAKE

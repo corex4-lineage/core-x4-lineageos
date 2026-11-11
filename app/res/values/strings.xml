@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X4 Boutons</string>
+    <string name="service_name">X4 Boutons</string>
+    <string name="service_desc">Permet aux 2 boutons programmables du Core-X4 de lancer une action (lampe, appareil photo, application…). Le service ne lit que ces 2 boutons.</string>
+</resources>
