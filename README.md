@@ -54,7 +54,14 @@ Correctifs et outils pour faire tourner une **GSI LineageOS 21** sur le **Crossc
 
 ---
 
-## Construire l'image système
+## Image prête à flasher
+
+Pas envie de reconstruire ? Une image système déjà corrigée est disponible dans les
+[**Releases**](https://github.com/corex4-lineage/core-x4-lineageos/releases)
+(`x4_lineage21_gapps_system.img.xz`, ~969 Mo → ~4 Go décompressée) + `vbmeta_disabled.img`.
+Décompresser (`xz -d` / 7-Zip), puis flasher avec `flash/FLASH_X4.ps1` (voir plus bas).
+
+## Construire l'image système (soi-même)
 
 Il faut une GSI de base + ce dépôt, sous Linux ou WSL (`e2fsprogs` + `python3`).
 
